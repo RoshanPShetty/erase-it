@@ -1,7 +1,3 @@
-Here’s an enhanced version of the README with emojis, SVG icons for the tech stack, and a "Future Features" section:
-
----
-
 # 🌟 Transparent Background Converter
 
 Welcome to the **Transparent Background Converter**! This web application allows you to easily remove backgrounds from images and download the result, all in your browser. Built with Next.js, TailwindCSS, TypeScript, and Framer Motion, this tool is designed to be user-friendly and efficient. 🚀
@@ -102,7 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 - Thanks to the creators of the `@imgly/background-removal` package for their excellent work. 🎉
 - Special thanks to the Next.js and TailwindCSS communities for their support and documentation. 🙌
-
----
-
-Feel free to adjust the visuals and text as needed. If you have any more changes or additions, let me know!
