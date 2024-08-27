@@ -1,6 +1,6 @@
-# 🌟 Transparent Background Converter
+# 🌟 Erase It - A Transparent Background Converter
 
-Welcome to the **Transparent Background Converter**! This web application allows you to easily remove backgrounds from images and download the result, all in your browser. Built with Next.js, TailwindCSS, TypeScript, and Framer Motion, this tool is designed to be user-friendly and efficient. 🚀
+Welcome to the **Erase It - A Transparent Background Converter**! This web application allows you to easily remove backgrounds from images and download the result, all in your browser. Built with Next.js, TailwindCSS, TypeScript, and Framer Motion, this tool is designed to be user-friendly and efficient. 🚀
 
 ![Screenshot](./public/screenshot.jpeg)
 
