@@ -2,13 +2,13 @@
 import { useDropzone } from "react-dropzone";
 import { motion } from "framer-motion";
 
-const Upload = ({ onDrop }: {
-	onDrop: (files: File[]) => void
-}) =>
-{
+const Upload = ({ onDrop }: { onDrop: (files: File[]) => void }) => {
 	const { getRootProps, getInputProps } = useDropzone({
 		onDrop,
-		accept: { "image/*": ["jpeg", "png", "gif"] },
+		accept: {
+			"image/png": [".png"],
+			"image/jpeg": [".jpg", ".jpeg"],
+		},
 	});
 
 	return (
